@@ -3,4 +3,4 @@
 This project is for Tugaspace and Cansat 
 
 The v2 versions are for logic and concep purposes only non of the work
-From now on the v3 versions will be the leading codes and the ones continuing progress
+From now on the v3 and up versions will be the leading codes and the ones continuing progress
