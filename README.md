@@ -1,6 +1,5 @@
 # raspberry-pi-and-esp32-ser-comm
 
-This project is for Tugaspace and Cansat 
+This project is made by Flower for [Tugaspace](https://github.com/TugaSpace) in the Cansat competition
 
-The v2 versions are for logic and concep purposes only non of the work
-From now on the v3 and up versions will be the leading codes and the ones continuing progress
+This project uses [mutliprocessing](https://docs.python.org/3/library/multiprocessing.html) on the Raspberry Pi to communicate with the Esp32 via Serial
